@@ -1,0 +1,69 @@
+html{
+  background: gray;
+  color: black;
+}
+
+.app{
+  margin-top: 40px;
+  margin:0 auto;
+  width: 700px;
+  border: 1px solid white;
+  font-size: 0;
+}
+
+.stats{
+  padding-bottom: 40px;
+}
+
+.floor, .hero, .enemy, .potion, .weapon, .next-floor, .boss, .hidden-floor, .wall{
+  width:35px;
+  height: 35px;
+  /*border: 1px solid white;*/
+  display:inline-block;
+}
+
+
+.container{
+  width: 100%;
+  text-align: center;
+}
+
+.floor{
+  background: white;
+}
+
+.hidden-floor{
+  background-color: black;
+}
+
+.wall{
+  background-color: pink;
+}
+.hero{
+  background: white;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.enemy{
+  background-color: red;
+}
+
+.boss{
+  background-color: maroon;
+}
+.potion{
+  background-color: green;
+}
+
+.weapon{
+  background-color: yellow;
+}
+
+.next-floor{
+  background: purple;
+}
+
+.wrap{
+  display:inline-block;
+}

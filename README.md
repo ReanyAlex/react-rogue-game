@@ -8,6 +8,7 @@ Built a game using the Javascript library React.
 1. Open a command line shell such as the Terminal app
 1. Fork & clone this repository
   <br>Fork this repository on GitHub ([help](https://help.github.com/articles/fork-a-repo/)) and then clone your fork locally ([help](https://help.github.com/articles/cloning-a-repository/))
+1. Open index.html in your local browser
 
 ## User Stories
 
